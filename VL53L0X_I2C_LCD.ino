@@ -2,6 +2,7 @@
    Dr.Tronik. YouTube Nisan 2022
    I²C LCD ekran için
    VL53L0X kütüphanesinin düzenlenmesi mm/cm
+   https://www.youtube.com/watch?v=zcWIq5iGcFs
    Dr.TRonik>>> YouTube
 
             Hardware Connections:
